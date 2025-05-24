@@ -35,7 +35,7 @@ Hi, I'm Henry Llontop Falcon !
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:henry2016llontop@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=henry2016llontop@gmail.com&su=Contacto%20desde%20mi%20web&body=Hola%20Llontaco%2C%20quisiera%20contactarte." target="_blank"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/henry-llontop-falcon-499767263/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Llontaco"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/51960417087?text=Hola%20Henry%2C%20estoy%20interesado%20en%20hablar%20sobre%20proyectos%20de%20data%20science%20o%20desarrollo%20web."><img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>

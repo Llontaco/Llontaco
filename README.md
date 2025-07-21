@@ -22,15 +22,16 @@ Hi, I'm Henry Llontop Falcon !
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and Data Science 
-📚 Im currently studyng in UNMSM
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 I am a self-taught Data Engineer and Full Stack Developer  
+📚 I’m currently studying at UNMSM  
+📝 I have a strong interest in Big Data, Data Pipelines, and Cloud Data Architecture  
+🔭 Working on building scalable ETL pipelines and data warehousing solutions  
+🌱 Learning about Data Lake architectures, Real-Time Data Processing, and Distributed Systems  
+⚙️ Main tools & tech: SQL, Python, Spark, Hadoop, Airflow, Kafka, AWS, Azure Data Services  
+🚩 Interested in building robust data infrastructures and enabling Data-Driven applications  
+🤝 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>. This is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
+
 <hr>
 
 ## 🤝 Connect with me

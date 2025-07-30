@@ -27,7 +27,7 @@ Hi, I'm Henry Llontop Falcon !
 📝 I have a strong interest in Big Data, Data Pipelines, and Cloud Data Architecture  
 🔭 Working on building scalable ETL pipelines and data warehousing solutions  
 🌱 Learning about Data Lake architectures, Real-Time Data Processing, and Distributed Systems  
-⚙️ Main tools & tech: SQL, Python, Spark, Hadoop, Airflow, Kafka, AWS, Azure Data Services  
+⚙️ Main tools & tech: SQL, Python, JS  
 🚩 Interested in building robust data infrastructures and enabling Data-Driven applications  
 🤝 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>. This is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
@@ -35,7 +35,7 @@ Hi, I'm Henry Llontop Falcon !
 <hr>
 
 ## 🤝 Connect with me
-<p align="center">
+<p align="left">
 	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=henry2016llontop@gmail.com&su=Contacto%20desde%20mi%20web&body=Hola%20Llontaco%2C%20quisiera%20contactarte." target="_blank"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/henry-llontop-falcon-499767263/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Llontaco"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -54,15 +54,17 @@ Hi, I'm Henry Llontop Falcon !
 
 ### 🧰 Frameworks and Libraries
 
-<p >
-    <a href="https://github.com/Llontaco"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Llontaco"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Llontaco"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Llontaco"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Llontaco"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=plastic&logo=react&logoColor=61DAFB"></a>
-    <a href="https://github.com/Llontaco"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=plastic&logo=django&logoColor=white"></a>
-    <a href="https://github.com/Llontaco"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
+<p>
+  <a href="https://github.com/Llontaco"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
+  <a href="https://github.com/Llontaco"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
+  <a href="https://github.com/Llontaco"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=plastic&logo=react&logoColor=61DAFB"></a>
+  <a href="https://github.com/Llontaco"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=plastic&logo=django&logoColor=white"></a>
+  <a href="https://github.com/Llontaco"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
+  <a href="https://github.com/Llontaco"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"></a>
+  <a href="https://github.com/Llontaco"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
+  <a href="https://github.com/Llontaco"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
 </p>
+
 
 
 ### 🗄️ Databases and Cloud Hosting
@@ -72,6 +74,8 @@ Hi, I'm Henry Llontop Falcon !
     <a href="https://github.com/Llontaco"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=plastic&logo=firebase&logoColor=white"></a>
     <a href="https://github.com/Llontaco"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href="https://github.com/Llontaco"><img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?style=plastic&logo=microsoft-azure&logoColor=white"></a>
+    <a href="https://github.com/Llontaco"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?plastic&logo=amazonaws&logoColor=white"></a>
+    <a href="https://github.com/Llontaco"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white"></a>
 </p>
 
 
